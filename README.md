@@ -1,2 +1,2 @@
-# angelsoid.githud.io
+# angelsoid.github.io
 portafolio
